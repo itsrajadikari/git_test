@@ -2,7 +2,8 @@
 Hello Odin!
 
 git status
-git add
+git add file name
 git add .
 git commit -m 'commit log'
 git log
+git push origin main
